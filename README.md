@@ -13,7 +13,7 @@
   
 
 - ##### 프리윌린(freeWheelin) 2017.11 ~ 2019.1
-  안드로이드 개발(Java/Kotlin), 백엔드(php/Mysql)
+  안드로이드 개발 및 유지보수(Java/Kotlin), 백엔드(php/Mysql)
 
 
 
