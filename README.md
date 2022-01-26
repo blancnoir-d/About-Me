@@ -85,9 +85,15 @@
 ### Team Project
 - [자연어처리를 이용한 청소리 리뷰 평가지표 개발 및 감성 분석](https://ringed-fireplant-2f0.notion.site/10b26e46c11c4d8ba3d0db3c59d50d80)
     
-    2022.1.8~2022.1.14
-    소스코드는 [여기서](https://github.com/Growing3Team/Vacuum-cleaner_Natural-language)확인 하실 수 있습니다
+    - 기간 : 2022.1.8~2022.1.14
+    - 역할 : 리뷰 크롤러 제작, 데이터 전처리, 말뭉치 제작, 감성사전 제작(소음, 배터리, 가격),단어 벡터화 가중치 생성, 개발 환경 구성 및 리딩, 에러 해결
+    - 관련기술 : KoNLPy, Pandas, BeautifulSoup, Selenium, Numpy, Scikits-learn, Pycosapcing
+    
+    - GitHub [소스코드](https://github.com/Growing3Team/Vacuum-cleaner_Natural-language)
+    - PPT 
     
 - [LSTM을 활용한 비트코인 시세 예측 모델](https://ringed-fireplant-2f0.notion.site/LSTM-658653bad85e4ee2abc31eee8825a866)
     
-    2022.1.4~2022.1.7
+    - 기간 : 2022.1.4~2022.1.7
+    - 역할 : LSTM모델 설계 및 학습
+    - 관련기술 : Tensorflow, Pandas, Numpy, Scikits-learn, matplotlib
