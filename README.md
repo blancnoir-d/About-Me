@@ -90,10 +90,11 @@
     - 관련기술 : KoNLPy, Pandas, BeautifulSoup, Selenium, Numpy, Scikits-learn, Pycosapcing
     
     - GitHub [소스코드](https://github.com/Growing3Team/Vacuum-cleaner_Natural-language)
-    - [PPT](2022/삼삼오오 자연어처리.pdf) 
+    - PPT 자료는 [여기서](2022/삼삼오오 자연어처리.pdf) 확인하실 수 있습니다
     
 - [LSTM을 활용한 비트코인 시세 예측 모델](https://ringed-fireplant-2f0.notion.site/LSTM-658653bad85e4ee2abc31eee8825a866)
     
     - 기간 : 2022.1.4~2022.1.7
     - 역할 : LSTM모델 설계 및 학습
     - 관련기술 : Tensorflow, Pandas, Numpy, Scikits-learn, matplotlib
+    - 코드는 [여기서](2022/bitcoin_LSTM.ipynb) 확인하실 수 있습니다
