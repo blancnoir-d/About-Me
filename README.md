@@ -87,6 +87,6 @@
     
     2022.1.8~2022.1.14
     
-- [LSTM을 활용한 비트코인 시세 예측 모델](https://www.notion.so/LSTM-658653bad85e4ee2abc31eee8825a866)
+- [LSTM을 활용한 비트코인 시세 예측 모델](https://ringed-fireplant-2f0.notion.site/LSTM-658653bad85e4ee2abc31eee8825a866)
     
     2022.1.4~2022.1.7
