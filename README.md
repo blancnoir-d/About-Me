@@ -86,6 +86,7 @@
 - [자연어처리를 이용한 청소리 리뷰 평가지표 개발 및 감성 분석](https://ringed-fireplant-2f0.notion.site/10b26e46c11c4d8ba3d0db3c59d50d80)
     
     2022.1.8~2022.1.14
+    소스코드는 [여기서](https://github.com/Growing3Team/Vacuum-cleaner_Natural-language)확인 하실 수 있습니다
     
 - [LSTM을 활용한 비트코인 시세 예측 모델](https://ringed-fireplant-2f0.notion.site/LSTM-658653bad85e4ee2abc31eee8825a866)
     
