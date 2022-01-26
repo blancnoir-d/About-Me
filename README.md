@@ -83,7 +83,7 @@
     
     일정, 할 일, 일기 등을 기록 및 관리 할 수 있는 안드로이드 기반의 캘린더 어플리케이션
 ### Team Project
-- [자연어처리를 이용한 청소리 리뷰 평가지표 개발 및 감성 분석](https://www.notion.so/10b26e46c11c4d8ba3d0db3c59d50d80)
+- [자연어처리를 이용한 청소리 리뷰 평가지표 개발 및 감성 분석](https://ringed-fireplant-2f0.notion.site/10b26e46c11c4d8ba3d0db3c59d50d80)
     
     2022.1.8~2022.1.14
     
