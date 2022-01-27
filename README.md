@@ -87,8 +87,7 @@
     
     - 기간 : 2022.1.8~2022.1.14
     - 역할 : 리뷰 크롤러 제작, 데이터 전처리, 말뭉치 제작, 감성사전 제작(소음, 배터리, 가격),단어 벡터화 가중치 생성, 개발 환경 구성 및 리딩, 에러 해결
-    - 관련기술 : KoNLPy, Pandas, BeautifulSoup, Selenium, Numpy, Scikits-learn, Pycosapcing
-    
+    - 관련기술 : KoNLPy, Pandas, BeautifulSoup, Selenium, Numpy, Scikits-learn, Pycosapcing    
     - GitHub [소스코드](https://github.com/Growing3Team/Vacuum-cleaner_Natural-language)
     - PPT 자료는 [여기서](2022/3355_cleaner.pdf) 확인할 수 있습니다
     
