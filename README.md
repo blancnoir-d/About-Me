@@ -79,7 +79,7 @@
     책 리뷰에서 추출한 관련된 키워드를 보여주고 유저의 도서 정보를 등록 및 관리 할 수 있는 안드로이드 기반의 어플리케이션
     
     - [설계문서](2016/빅데이터_설계_문서.pdf)
-- [LogDiary](2016/portfolio_logdiary_축소본.pdf)  -  2016.7~ 2016.11
+- [LogDiary](https://github.com/blancnoir-d/Portfolio/blob/main/2016/portfolio_logdiary_%EC%B6%95%EC%86%8C%EB%B3%B8.pdf)  -  2016.7~ 2016.11
     
     일정, 할 일, 일기 등을 기록 및 관리 할 수 있는 안드로이드 기반의 캘린더 어플리케이션
 ### Team Project
