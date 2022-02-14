@@ -74,6 +74,11 @@
 
 ## Project
 ### Personal Project
+- [NewsWord](https://ringed-fireplant-2f0.notion.site/99e79dba5dc1483390d0e3e08f0c6fa1)<br>
+인공지능 뉴스 기사 내용을 Word Count 해서 매일 오전 10시 카카오톡 메시지로 알림 전송
+  - 기간 : 2022.01.15~2022.02.10
+  - 관련기술 : KoNLPy, BeautifulSoup, DJango, pymysql, AWS EC2, AWS S3, KAKAO API, NAVER API
+
 - [MEBOOK](https://github.com/blancnoir-d/Portfolio/blob/main/2016/portfolio_mebook_%EC%B6%95%EC%86%8C%EB%B3%B8.pdf)<br>
 책 리뷰에서 추출한 관련된 키워드를 보여주고 유저의 도서 정보를 등록 및 관리 할 수 있는 안드로이드 기반의 어플리케이션
   - 기간 : 2016.12~2017.8
