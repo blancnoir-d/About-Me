@@ -77,7 +77,7 @@
 ## Project
 ### Personal Project
 - [NewsWord](https://ringed-fireplant-2f0.notion.site/99e79dba5dc1483390d0e3e08f0c6fa1)<br>
-인공지능 뉴스 기사 내용을 Word Count 해서 매일 오전 10시 카카오톡 메시지로 알림 전송
+인공지능 뉴스 기사 내용을 Word Count 해서 카카오톡 메시지로 알림 전송
   - 기간 : 2022.01.15~2022.02.10
   - 관련기술 : KoNLPy, BeautifulSoup, DJango, pymysql, AWS EC2, AWS S3, KAKAO API, NAVER API
 
